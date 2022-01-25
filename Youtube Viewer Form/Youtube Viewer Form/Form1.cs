@@ -13,6 +13,8 @@ using Leaf.xNet;
 using Youtube_Viewers.Helpers;
 using System.IO;
 
+//Credit https://github.com/Airkek/Youtube-Viewers
+
 namespace Youtube_Viewer_Form
 {
     public partial class Form1 : Form
